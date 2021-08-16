@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.BluetoothTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T00:04:38" hostname="DESKTOP-87VPS85" time="54.268">
+  <properties/>
+  <testcase name="verifyCreateTask()" classname="cleanTest.BluetoothTest" time="54.268"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 15, 2021 7:05:08 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
